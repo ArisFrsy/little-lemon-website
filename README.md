@@ -1,3 +1,19 @@
+# Lemon Website
+## Preview
+![image](https://drive.google.com/uc?export=view&id=1xfKAdV97r2bMO9rnpzHMolJPUvlY5GIW)
+![image](https://drive.google.com/uc?export=view&id=1nWsI3NfRZWW9UT2NIIh5xPPQ4mB7dox8)
+
+## How to run 
+Install Dependencies
+```sh
+yarn install
+```
+
+Run project
+```sh
+yarn dev
+```
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
