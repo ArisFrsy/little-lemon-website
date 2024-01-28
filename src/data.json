@@ -1,0 +1,92 @@
+{
+  "mains": [
+    {
+      "name": "Lemon Caesar",
+      "description": "Crisp romaine lettuce tossed with our homemade lemon Caesar dressing, croutons, and shredded parmesan cheese.",
+      "price": "19"
+    },
+    {
+      "name": "Lemon Surf & Turf",
+      "description": "A grilled, queen-cut ribeye served with shrimp and lemon scallop alfredo.",
+      "price": "17"
+    },
+    {
+      "name": "Creamy Lemon Sage",
+      "description": "Chicken breast sautéed with fresh sage and prosciutto. Served atop creamy lemon asiago linguini.",
+      "price": "21"
+    },
+    {
+      "name": "Lemon Haddock",
+      "description": "Fresh haddock dipped in beer batter and fried to a golden brown, served with lemon wedges.",
+      "price": "23"
+    },
+    {
+      "name": "Lemon Tenderloin",
+      "description": "Tenderloin tips, sautéed with bacon and mushrooms and finished with a bourbon-lemon BBQ sauce.",
+      "price": "18"
+    },
+    {
+      "name": "Lemon Chicken Marsala",
+      "description": "Boneless chicken breast sautéed with mushrooms and finished in a lemon marsala and cream reduction.",
+      "price": "22"
+    }
+  ],
+  "sides": [
+    {
+      "name": "Lemon Fries",
+      "price": "5"
+    },
+    {
+      "name": "Lemon Onion Rings",
+      "price": "4"
+    },
+    {
+      "name": "Lemon Hash Brown",
+      "price": "3"
+    },
+    {
+      "name": "Lemon Chicken Nuggets",
+      "price": "4"
+    },
+    {
+      "name": "Lemon Salad",
+      "price": "6"
+    },
+    {
+      "name": "Lemon Coleslaw",
+      "price": "5"
+    }
+  ],
+  "drinks": [
+    {
+      "name": "Lemonade",
+      "price": "4",
+      "category": "drink"
+    },
+    {
+      "name": "Lemon Juice",
+      "price": "5",
+      "category": "drink"
+    },
+    {
+      "name": "Iced Lemon Tea",
+      "price": "4",
+      "category": "drink"
+    },
+    {
+      "name": "Lemon Coffee",
+      "price": "6",
+      "category": "drink"
+    },
+    {
+      "name": "Lemon Smoothie",
+      "price": "4",
+      "category": "drink"
+    },
+    {
+      "name": "Lemon Water",
+      "price": "2",
+      "category": "drink"
+    }
+  ]
+}
